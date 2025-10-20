@@ -1,0 +1,21 @@
+div, span {
+    margin: 10px;
+    padding: 20px;
+}
+
+.block {
+    display: block;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline_block {
+    display: inline-block;
+    box-sizing: content-box;
+    height: 200px;
+    border: 1px solid black;
+}
